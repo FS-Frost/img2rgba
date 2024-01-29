@@ -1,5 +1,14 @@
 # img2rgba
 
+Image converter to plain RGBA.
+
+## Requeriments
+
+-   [Bun](https://bun.sh/)
+
+## Usage
+
 ```
-bun run main.ts image.png
+bun install
+bun run main.ts path/to/input.png path/to/output.rgba
 ```
